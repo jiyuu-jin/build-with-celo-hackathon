@@ -1,4 +1,0 @@
-repository "Celoverse@pelkey@cloud"
-  path "/"
-    br "/main"
-    co "/main"
